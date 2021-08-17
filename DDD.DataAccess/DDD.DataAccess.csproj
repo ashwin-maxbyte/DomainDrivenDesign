@@ -12,6 +12,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\DDD.Base\DDD.Base.csproj" />
     <ProjectReference Include="..\GE.Base\DDD.Base.csproj" />
   </ItemGroup>
 
