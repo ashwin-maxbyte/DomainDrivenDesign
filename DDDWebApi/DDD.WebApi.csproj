@@ -18,8 +18,6 @@
   <ItemGroup>
     <ProjectReference Include="..\DDD.Base\DDD.Base.csproj" />
     <ProjectReference Include="..\DDD.DataAccess\DDD.DataAccess.csproj" />
-    <ProjectReference Include="..\GE.Base\DDD.Base.csproj" />
-    <ProjectReference Include="..\GE.DataAccess\DDD.DataAccess.csproj" />
   </ItemGroup>
 
   <ItemGroup>
